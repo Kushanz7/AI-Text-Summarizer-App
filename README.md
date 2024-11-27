@@ -4,7 +4,7 @@
 The **AI Text Summarizer Web App** is a powerful and user-friendly application designed to condense lengthy texts into concise summaries. This web application, built with Postman, Express, and the Hugging Face API, allows users to quickly digest content and extract key information.
 
 <p align="center">
-  <img src="https://your-image-url](https://raw.githubusercontent.com/Kushanz7/AI-Text-Summarizer-App/refs/heads/main/public/images/AiSumImage.png" alt="AI Text Summarizer Web App Interface">
+  <img src="https://raw.githubusercontent.com/Kushanz7/AI-Text-Summarizer-App/refs/heads/main/public/images/AiSumImage.png" alt="AI Text Summarizer Web App Interface">
 </p>
 
 ## Features
@@ -17,8 +17,3 @@ The **AI Text Summarizer Web App** is a powerful and user-friendly application d
 - Node.js
 - npm
 - Hugging Face API Key
-
-## Installation
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/ai-text-summarizer.git
